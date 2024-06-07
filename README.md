@@ -1,4 +1,5 @@
 # Veteriner Yönetim Sistemi
+## Canlı Link: https://yammering-rasla-busrademir-a841a0e6.koyeb.app/swagger-ui/index.html
 
 Veteriner Yönetim Sistemi, veteriner kliniklerinin günlük işlerini düzenlemek ve yönetmek amacıyla oluşturulmuş bir REST API'dir. Bu API ile veteriner çalışanının veteriner doktorları, müşterileri, hayvanları ve aşılarını, randevuları yönetmesi sağlanır.
 
